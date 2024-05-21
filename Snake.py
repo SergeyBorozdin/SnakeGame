@@ -1,6 +1,6 @@
 import pygame
 
-size = [400, 600]
+size = [450, 600]
 FRAME_COLOR = (0, 255, 204)  # цвета в РГБ
 WHITE_COLOR = (255, 255, 255)
 BLUE_COLOR = (204, 255, 255)
