@@ -8,6 +8,8 @@ SIZE_BLOCK = 20
 COUNT_BLOCKS = 20
 MARGIN = 1
 
+
+
 screen = pygame.display.set_mode(size)
 pygame.display.set_caption("Змейка")
 
